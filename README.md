@@ -1,23 +1,23 @@
 # Billzhizhi.github.io
 This is my blog.
-###1.
-```bash
+## 1.
+```
 git clone [addr]/git clone -b hexo [addr]
 ```
-###2.
-```bash
+## 2.
+```
 edit......
 ```
-###3.
-```bash
+## 3.
+```
 git pull 
 git add .
 git commit -m [submitMessage]
 git remote add origin hexo [addr]
 git push -u origin hexo
 ```
-###4.
-```bash
+## 4.
+```
 hexo clean
 hexo generate
 hexo deploy
