@@ -16,9 +16,11 @@ git commit -m [submitMessage]
 git remote add origin hexo [addr]
 git push -u origin hexo
 ```
+
 ## 4.
 ```
 hexo clean
+
 hexo generate
 hexo deploy
 ```
